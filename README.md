@@ -1,2 +1,2 @@
 # Kaggle
-Completed Exercises on Kaggle Micro-Courses
+Completed Exercises on Kaggle Courses
